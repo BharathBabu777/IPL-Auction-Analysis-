@@ -1,4 +1,4 @@
-# Project Title : IPL-Auction-Analysis
+# IPL-Auction-Analysis
 
 - [Project Execution Video](https://drive.google.com/drive/folders/10n0aYm_RpKv7S_cGlCXIXbYVyOSavlUg)
 
